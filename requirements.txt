@@ -1,0 +1,18 @@
+# Core packages for modelling and data handling
+pyomo
+pandas
+numpy
+matplotlib
+geopandas
+networkx
+
+# Standard library module, included with Python (no pip install needed)
+# os
+
+# Solver note:
+# GLPK is not installable via pip.
+# To install GLPK, follow OS-specific instructions:
+#   - macOS:    brew install glpk
+#   - Windows:  choco install glpk
+#   - Linux (Debian/Ubuntu): sudo apt-get install glpk-utils
+# You must also ensure GLPK is available on your system path for Pyomo to use it.

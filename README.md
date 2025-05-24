@@ -148,7 +148,7 @@ Input data is drawn from public sources:
 - **SMARD.de** (Bundesnetzagentur): Net generation capacity (Kraftwerksliste)
   https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Erzeugungskapazitaeten/Kraftwerksliste/start.html
 
--**EWI Merit Order Tool**: Marginal cost estimates and capacity outage factors
+- **EWI Merit Order Tool**: Marginal cost estimates and capacity outage factors
     https://www.ewi.uni-koeln.de/de/publikationen/ewi-merit-order-tool-2023/ 
 
 For full source documentation, see Chapter 4 of the thesis.
